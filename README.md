@@ -1,9 +1,5 @@
 # Cybersecurity Expert, Bug Bounty Hunter, and Programmer
 
-<p align="left">
-  <img src="lfillaz.gif" alt="GIF" width="500" height="100"/>
-</p>
-
 ---
 
 ## Certification
@@ -33,13 +29,13 @@
 ## Availability
 - Open for programming requests
 - Contact me via Discord (redpwnx) or Telegram (redpwnx)
-![Snake animation](laz.svg)
+![Snake animation](redpwn.svg)
 ---
 <p align="left">
-  <img height=97 src="https://github-profile-trophy.vercel.app/?username=lfillaz&theme=radical&no-frame=true&title=Stars,Followers,Commits&column=-1" alt="Trophy"/>
-  <img height=202 src="https://github-readme-streak-stats-git-main-davids-projects-ad77adcc.vercel.app/?user=lfillaz&theme=radical" alt="Streak Stats"/>
+  <img height=97 src="https://github-profile-trophy.vercel.app/?username=RedPwn/x&theme=radical&no-frame=true&title=Stars,Followers,Commits&column=-1" alt="Trophy"/>
+  <img height=202 src="https://github-readme-streak-stats-git-main-davids-projects-ad77adcc.vercel.app/?user=RedPwn/x&theme=radical" alt="Streak Stats"/>
   <a href="#">
-    <img height=200 align="center" src="https://my-stats-43gk.vercel.app/api/top-langs/?username=lfillaz&hide=html,scss,css&langs_count=8&layout=compact&theme=radical&card_width=150" alt="Top Languages"/>
+    <img height=200 align="center" src="https://my-stats-43gk.vercel.app/api/top-langs/?username=RedPwn/x&hide=html,scss,css&langs_count=8&layout=compact&theme=radical&card_width=150" alt="Top Languages"/>
   </a>
 </p>
 ## 2022-2024 Contributions
