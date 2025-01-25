@@ -14,10 +14,7 @@
 ## Skills
 - **Python:** >90%
 - **Go:** >40%
-
-
-![image](https://github.com/user-attachments/assets/1e0b1c34-a90d-40d7-b81c-6c5aab0d4c30)
-
+  
 ---
 
 ## Activities
